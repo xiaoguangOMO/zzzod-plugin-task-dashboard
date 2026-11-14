@@ -2,8 +2,8 @@
   "id": "zzz_task_dashboard",
   "name": "任务完成看板",
   "summary": "在一条龙侧栏加一页看板，一眼看完所有实例今天勾选了哪些任务、哪些已完成、几点跑的；体力刷取等任务还能展开看计划详情。只读配置与运行记录，不启动游戏、不执行任何任务。",
-  "version": "1.4.0",
-  "versionCode": 3,
+  "version": "1.4.1",
+  "versionCode": 4,
   "author": {
     "name": "xiaoguangOMO",
     "url": "https://github.com/xiaoguangOMO"
